@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="click_me">Click me</string>
+    <string name="haz_click">Haz click</string>
+    <string name="dame_el_primer_valor">Dame el primer valor</string>
+    <string name="dame_el_segundo_valor">Dame el segundo valor</string>
+    <string name="sumar">Sumar</string>
+    <string name="resultado">Resultado</string>
+    <string name="restar">Restar</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="dividir">Dividir</string>
+    <string name="write_here_your_food">Write here your food</string>
+    <string name="what_have_you_eaten">What have you eaten?</string>
+    <string name="calculate">Calculate</string>
+    <string name="write_here_the_grams">Write here the grams</string>
+    <string name="welcome_to_eqdiet_alpha_mobile_n_ncoded_by_daniel_l_pez_tena">Welcome to EQDiet Alpha Mobile!\n\nCoded by: Daniel López Tena</string>
+</resources>
