@@ -13,6 +13,10 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 - Latest Java SE Development Kit (JDK). Click [here](https://bit.ly/javadevelopmentkit) if you don't have it.
 
+### Build status:
+
+![Android CI](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI/badge.svg) ![Java CI with Gradle](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Java%20CI%20with%20Gradle/badge.svg) ![Android CI assembleDebug](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI%20assembleDebug/badge.svg)
+
 ### Procedure:
 
 1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it (only Windows).
