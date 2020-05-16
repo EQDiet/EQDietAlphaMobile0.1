@@ -30,5 +30,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 8. Go to app → build → outputs → apk → debug.
 9. Find `app-debug.apk` file. That's EQDiet Alpha Mobile apk! Now go to an Android mobile phone to test it.
 
+- Remember that the compiler that is included in this project will be getting older and outdated. You can upgrade the Gradle compiler by runing this command: `gradlew wrapper --gradle-version=[version number]`. Replace [verion number] with Gradle's latest version. ATTENTION: Do not upgrade to Gradle 7.0 when this is released.
+
 ### Note this project is protected by the MIT License. You can read it [here](https://github.com/EQDiet/EQDietAlphaMobile0.1/blob/master/LICENSE).
 #### © 2020, EQDiet.
