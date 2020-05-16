@@ -15,4 +15,15 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 ### Procedure:
 
-1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it.
+1. Set Java JDK bin folder to PATH. View [this video](https://www.youtube.com/watch?v=vhBNV8no4CI) if you don't know how to do it (only Windows).
+2. Download source code by clicking "clone or download" button or by running this command:                          
+`git clone https://github.com/EQDiet/EQDietAlpha0.25.git` (Only if you have GIT installed)
+3. Extract the files to any folder.
+4. Open command prompt or terminal.
+5. Go to the destination folder you have extracted the files.
+6. Run `gradlew.bat build` on Windows or `./gradlew build` on Linux. This is the full compilation method and we recommend it. However, you can run `gradlew.bat app:assembleDebug` on Windows or `./gradlew app:assembleDebug` on Linux for a quick compilation method. Ignore all warnings that will appear.
+7. Go to app → build → outputs → apk → debug.
+8. Find `app-debug.apk` file. That's EQDiet Alpha Mobile apk! Now go to an Android mobile phone to test it.
+
+### Note this project is protected by the MIT License. You can read it [here](https://github.com/EQDiet/EQDietAlphaMobile0.1/blob/master/LICENSE).
+#### © 2020, EQDiet.
