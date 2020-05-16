@@ -15,7 +15,7 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 ### Build status:
 
-[![Android CI](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Android+CI%22) [![Java CI with Gradle](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Java+CI+with+Gradle%22)[![Android CI assembleDebug](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI%20assembleDebug/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Android+CI+assembleDebug%22)
+[![Android CI](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Android+CI%22) [![Java CI with Gradle](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Java%20CI%20with%20Gradle/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Java+CI+with+Gradle%22) [![Android CI assembleDebug](https://github.com/EQDiet/EQDietAlphaMobile0.1/workflows/Android%20CI%20assembleDebug/badge.svg)](https://github.com/EQDiet/EQDietAlphaMobile0.1/actions?query=workflow%3A%22Android+CI+assembleDebug%22)
 
 ### Procedure:
 
