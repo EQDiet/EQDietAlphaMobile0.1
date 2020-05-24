@@ -6,7 +6,7 @@ Contributing to EQDiet development is really easy. Just follow these steps:
 2. Modify EQDiet's source code to add/remove/modify anything.
 3. Test if compilation is successfull using `gradlew` compiler.
 4. Run the mobile app at least twice to check if it works correctly and see the functionality of the things you added/removed/modified.
-5. Compress the source code (as a ZIP, RAR, 7z or similar)
+5. Compress the source code (as a ZIP, RAR, 7z or similar).
 6. Send an email to eqdiet@protonmail.com with this things: the compressed full source code, the things you have modified and (optional), the reason why you've modified that.
 7. Done! Thanks a lot for contributing!
 
