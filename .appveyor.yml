@@ -10,5 +10,5 @@ build: off
 
 build_script:
   - sudo apt update
-  - sudo apt-get install android-sdk
+  - sudo apt-get install android-sdk -y
   - ./gradlew build
