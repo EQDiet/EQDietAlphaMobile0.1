@@ -12,5 +12,5 @@ build_script:
   - sudo apt update
   - sudo apt-get install android-sdk -y
   - export ANDROID_SDK_ROOT="/usr/lib/android-sdk"
-  - sudo ~/Library/Android/sdk/tools/bin/sdkmanager --update
+  - sudo sdkmanager --update
   - ./gradlew build
