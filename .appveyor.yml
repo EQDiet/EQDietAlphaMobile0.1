@@ -1,21 +1,9 @@
-version: "{build}"
-image: "Windows Server 2019 on Azure for batect"
-
-environment:
-  GRADLE_OPTS: "-Dorg.gradle.internal.launcher.welcomeMessageEnabled=false -DgenerateCoverage=true"
-  GRADLE_USER_HOME: "D:\\gradle"
-
-install:
-  - ver
-  - java -version
-  - bash --version
+version: 1.0.{build}
+image: Ubuntu1804
+cache: ~/.gradle
 
 build_script:
-  - ./gradlew build
+  - sh: ./gradlew build
 
 test: off
 deploy: off
-
-cache:
-  - '%GRADLE_USER_HOME%\caches'
-  - '%GRADLE_USER_HOME%\wrapper'
