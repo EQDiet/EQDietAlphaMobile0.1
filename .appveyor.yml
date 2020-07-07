@@ -15,4 +15,5 @@ build_script:
   - wget https://dl.google.com/android/repository/commandlinetools-linux-6609375_latest.zip
   - unzip commandlinetools-linux-6609375_latest.zip
   - yes y | sudo tools/bin/sdkmanager --licenses --sdk_root=$ANDROID_SDK_ROOT
+  - ls $ANDROID_SDK_ROOT
   - sudo ./gradlew build
