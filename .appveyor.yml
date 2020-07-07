@@ -1,0 +1,9 @@
+version: 1.0.{build}
+image: Ubuntu1804
+cache: ~/.gradle
+
+build_script:
+  - sh: ./gradlew build
+
+test: off
+deploy: off
