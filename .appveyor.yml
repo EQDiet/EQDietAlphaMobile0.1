@@ -9,4 +9,6 @@ branches:
 build: off
 
 build_script:
+  - sudo apt update
+  - sudo apt-get install android-sdk
   - ./gradlew build
