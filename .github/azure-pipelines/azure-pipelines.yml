@@ -1,0 +1,16 @@
+jobs:
+- job: Ubuntu
+  pool:
+    vmImage: 'ubuntu-latest'
+  steps:
+  - bash: |
+     chmod +x gradlew
+     ./gradlew build
+    displayName: Building with Gradle
+    
+- job: Windows
+  pool:
+    vmImage: 'windows-latest'
+  steps:
+  - script: gradlew.bat build
+    displayName: Building with Gradle
