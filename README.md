@@ -7,6 +7,8 @@ To know more about this release, visit [this link](https://eqdiet.weebly.com/rel
 
 ![Image of EQDiet](https://eqdiet.weebly.com/uploads/1/2/2/7/122786941/eqdiet_orig.png)
 
+(Image designed by 千图网 on [Pngtree.com](https://pngtree.com))
+
 ## Building source code:
 
 ### Requirements:
